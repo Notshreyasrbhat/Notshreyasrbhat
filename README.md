@@ -72,8 +72,6 @@ Aspiring **Software Engineer** with strong skills in **Android Development**, **
 - Extracts product name, price, and URL for comparison  
 - Filters results by price, category, and vendor for quick access to best deals  
 - Provides real-time updates and highlights price drops  
-- Designed for scalability to include multiple e-commerce sources in the future  
-- Can be extended with notifications for new deals or discounts  
 [GitHub](https://github.com/Notshreyasrbhat/CheapSeek)
 
 ---
