@@ -1,7 +1,4 @@
 # Hi there, I'm Shreyas 👋
-
-![Coding GIF](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif)
-
 Aspiring **Software Engineer** with strong skills in **Android Development**, **MERN stack**, and **problem-solving**, eager to build scalable and user-friendly applications.  
 
 ---
