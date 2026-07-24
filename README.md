@@ -126,9 +126,9 @@ Shri Anantheshwara High School
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Notshreyasrbhat&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Notshreyasrbhat&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Notshreyasrbhat&layout=compact&theme=radical&langs_count=8)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Notshreyasrbhat&layout=compact&theme=radical)
 
 </div>
 ---
