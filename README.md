@@ -122,16 +122,6 @@ Shri Anantheshwara High School
 - CNR Scholarship (Top 20%, twice)
 - Udemy Android Development Certification (2024)
 ---
-# 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Notshreyasrbhat&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Notshreyasrbhat&layout=compact&theme=radical)
-
-</div>
----
 ## 🐍 Contribution Activity
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Notshreyasrbhat&theme=react-dark&hide_border=true)
@@ -140,5 +130,3 @@ Shri Anantheshwara High School
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyasrbhat/)
 ---
-
-> Building, learning, and improving one project at a time 🚀
