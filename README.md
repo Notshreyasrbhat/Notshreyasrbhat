@@ -104,29 +104,8 @@ Currently focused on building scalable mobile applications, strengthening Data S
 **B.Tech Computer Science and Engineering**  
 PES University  
 CGPA: 8.95
-
-**PUC**  
-Poorna Prajna College  
-95%
-
-**SSLC**  
-Shri Anantheshwara High School  
-98.5%
-
 ---
-
 # 🏆 Achievements
-
 - LeetCode Rating: **1675**
-- MRD Scholarship (Top 5%)
-- CNR Scholarship (Top 20%, twice)
 - Udemy Android Development Certification (2024)
----
-## 🐍 Contribution Activity
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Notshreyasrbhat&theme=react-dark&hide_border=true)
-
-# 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyasrbhat/)
 ---
